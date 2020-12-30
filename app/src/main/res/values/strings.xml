@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <!--les références de l'activity_main !-->
+    <string name="Name">Enter Name</string>
+    <string name="Pass">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="check">Remember my login information</string>
+    <!--Les références de la classe MainActivity pour Définir une valeur String dans l'éditeur de préférences!-->
+    <string name="nom">com.dsi32.sharedpreferences.nom</string>
+    <string name="pass">com.dsi32.sharedpreferences.pass</string>
+    <string name="checkboxLog">com.dsi32.sharedpreferences.checkboxLog</string>
+</resources>
